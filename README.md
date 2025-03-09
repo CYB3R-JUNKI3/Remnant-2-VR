@@ -101,7 +101,11 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Remnant-2-VR/r
 :bulb: I have included an optional crosshair mod
 
 ---
+:question: _Item pickups/dialogue prompts look weird and some button prompts do not show_
 
+:bulb: This is a know issue, it will be fixed when a solution is found
+
+---
 :question: _Some cut-scenes have no subtitles_
 
 :bulb: The UI has been removed to remove black bars from cut-scenes, so subtitles for those parts are also invisible
