@@ -74,6 +74,16 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Remnant-2-VR/r
 
 
 ## Important Notes / FAQ's
+:question: _Can I play in 3rd person_
+
+:bulb: If you want to play 3rd Person you do not need this profile/mod
+
+---
+:question: _Is there a 1st/3rd person toggle_
+
+:bulb: No this profile/mod is 1st person only, <a href="https://discord.com/channels/747967102895390741/1136681493188579398/1332700310212448350">try this profile/mod by Markmon at Flat2VR Discord</a>
+
+---
 :question: _My (Weapon_name) melee weapon is not attached_
 
 :bulb: There are still some melee weapons not attached, send me your save over at Discord and I will see if I can attach it
