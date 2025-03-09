@@ -28,7 +28,8 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Remnant-2-VR/r
 
 ## Controls
 - No change to game controls
-- If using the Crosshair mod, it will appear when you aim
+- If using the Crosshair mod, Enable/Disable with "END"
+- Includes mouse dll by Markmon (for using Menus)
 - Optional plugin for Index Controllers by Markmon
 
 ####    (Below is for folks who don't want to click their Thumb-Sticks) 
@@ -54,7 +55,7 @@ All installation info is <a href="https://github.com/CYB3R-JUNKI3/Remnant-2-VR/r
 
 
 ## Other Features
-- Fixed aiming
+- Fixed Aiming
 - Free head/controller movement in main menu/pause menu/inventory/cut-scenes/Interactions
 - *Experimental* Dialogues in 1st person
 - All dialogues have free head/controller movement
